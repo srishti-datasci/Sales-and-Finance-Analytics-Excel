@@ -28,7 +28,7 @@
 
 ## Atliq Bussiness models
 
-<img width="600" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/e1cb9f97b513916b654bd0bfd008a1660ae63b68/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/Atliq%20Bussiness%20Model.png">
+<img width="600" alt="image" src="Atliq Bussiness Model.png">
 
 ***
 
