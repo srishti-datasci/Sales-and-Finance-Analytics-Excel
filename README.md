@@ -62,14 +62,14 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
 ### 📌1:Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
 
 
-<img width="600" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Top%2010%20Products%2021%20vs%2020.png">
+<img width="600" alt="image" src="Top 10 Products 21 vs 20.png">
 
 
 **Insights:**  Listed of the top ten products that have been doing really well from 2020 to 2021. One product, "AQ Electron 4 3600 Desktop processor," "AQ Pen Drive DRC" has been the best-seller for both years.
 
 ### 📌2: Division Sales Report: Create a report that shows how much money we made in 2020 and 2021 and how much our sales grew.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Division%20Report.png">
+<img width="700" alt="image" src="Division Report.png">
 
 **Insights:** 
 - PCs sold really well, jumping from $40.1 million to $165.8 million in 2021.
@@ -80,27 +80,27 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
 
 ### TOP 5 Products by QTY
 
-<img width="800" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Top%205%20Products-%20QTY.png">
+<img width="800" alt="image" src="Top 5 Products- QTY.png">
 
 **Insights:** 
 These insights highlight our best-performing products, with "AQ Master wired x1 Ms" leading Product. It's crucial to continue monitoring and promoting these popular items to maintain and optimizing our inventory and sales strategies.
 
 ### Bottom 5 Products by QTY
 
-<img width="800" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Bottom%205%20Products-%20QTY.png">
+<img width="800" alt="image" src="Bottom 5 Products- QTY.png">
 
 **Insights:** 
 These insights reveal the products with lower sales volumes. It's important to evaluate the performance of these items and consider whether adjustments are needed in marketing, inventory, or product offerings.
 
 ### 📌4: New Products in 2021: Figure out what new products Atliq started selling in 2021.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/New%20Products%202021.png">
+<img width="700" alt="image" src="New Products 2021.png">
 
 **Insights:** In 2021, we added 16 new products to our lineup, and they were very successful. One of them, "AQ Qwerty," did exceptionally well.
 
 ### 📌5.Top 5 Sales Countries in 2021: List the five countries where we made the most money in 2021.
 
-<img width="800" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Top%205%20Country%20sales%20in%202021.png">
+<img width="800" alt="image" src="Top 5 Country sales in 2021.png">
 
 **Insights:** India led the way with the most sales at $161.3 million. The USA, South Korea, the United Kingdom, and Canada also had strong sales.
 
@@ -128,9 +128,9 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌1.Customer Net Sales Performance Report: This report provides a detailed overview of how much revenue we've earned from our customers.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Customer%20Performance%20Report-1.png">
+<img width="700" alt="image" src="Customer Performance Report-1.png">
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Customer%20Performance%20Report-2.png">
+<img width="700" alt="image" src="Customer Performance Report-2.png">
 
 **Insights:** 
 - In 2019, we generated revenue from 87.5 million.
@@ -140,7 +140,7 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌2.Market Performance vs. Sales Targets Comparison: It offers a thorough analysis of how our sales efforts align with our goals and market conditions.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Sales_analysis/Market%20Performance%20vs%20Target%20Report-1.png">
+<img width="700" alt="image" src="Market Performance vs Target Report-1.png">
 
 **Insights:**
 
@@ -150,7 +150,7 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌3.Yearly Profit and Loss (P&L) Report: This report breaks down our financial performance for each fiscal year, showing where we made and lost.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/P%26L%20By%20Fiscal%20Year(1).png">
+<img width="700" alt="image" src="P&L By Fiscal Year(1).png">
 
 **Insights:** 
 - Our three-year Profit and Loss report showcases impressive growth in Net Sales, surging by 204.5% from 87.5 million to 598.9 million.
@@ -160,13 +160,13 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌4.Quarterly Profit and Loss (P&L) Comparison:** We analyze and compare the financial performance for each quarter, revealing trends in how we're doing throughout the year.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/P%26L%20by%20Months.png">
+<img width="700" alt="image" src="P&L by Months.png">
 
 **Insights:** Our sales went up a over the years, especially in 2021, where they more than doubled compared to 2020. Despite increased costs, we managed to keep a good profit margin. This means we're making more revenue while being efficient with our expenses, which is great for the business.
 
 ### 📌5.Market-Specific Profit and Loss (P&L) Report:** This report breaks down the financial performance for each market we operate in.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/P%26L%20by%20market-1.png">
+<img width="700" alt="image" src="P&L by market-1.png">
 
 **Insights:** 
 - Sales numbers for different markets Japan and New Zealand have the highest profit margins, which means we make more revenue relative to our costs in these markets.
@@ -176,7 +176,7 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 ### 📌6.Quarterly Gross Margin Percentage (GM%) by Location:** It provides a detailed view of profitability in different geographic areas.
 
-<img width="700" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/GM%25%20by%20SubZones.png">
+<img width="700" alt="image" src="GM% by SubZones.png">
 
 **Insights:** 
 -Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make decisions.
@@ -210,4 +210,4 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 ### Certificate of completion from Code basics
 
 
-<img width="600" alt="image" src="https://github.com/srishti-datasci/AtliQ-Hardware-Excel-Analysis/blob/07ef1f39e7b78125827c0b2521ff44aa8fba7d05/Sales-and-Finance-Analytics-on-Excel-master/Finacial_Analysis/Codebasics_ExcelCertification.pdf">
+<img width="600" alt="image" src="Codebasics_ExcelCertification.pdf">
